@@ -1,0 +1,36 @@
+.container {
+    height: auto;
+    width: 800px;
+    border: 2px solid gray;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: aqua;
+}
+
+.phoneBook{
+    background-color: violet;
+    color: white;
+    border : 2px solid black;
+    border-radius: 5px;
+    padding: 2%;
+    width: 75%;
+     
+}
+
+.myTable {
+    border: 2px solid black;
+    width: 500px;
+    height: auto;
+    border-collapse: collapse;
+}
+
+td,th {
+    text-align: center;
+    border: 1px solid black;
+}
+#empheading {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(111,195,242);
+    border-bottom: 2px solid black;
+
+}
